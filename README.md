@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Welcome to my GitHub page! 
+🚀 Here, you'll find a collection of my projects, contributions, and explorations in the world of coding.
 
 <!--
 **ArdaTarim/ArdaTarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
